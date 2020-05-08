@@ -1,7 +1,24 @@
-[下载python软件]: 
-[]: https://www.anaconda.com/products/individual
+### 注意
+
+
+
+同事们，你们好呀！！！
+
+有新问题可以尽情在这里提 ~
+
+![image-20200508133043386](asset/image-20200508133043386.png)
+
+我有时间帮大家解决。希望得到提示的可以留自己的邮箱。
+
+
+
+------
+
+
 
 ### 第一步：下载
+
+[下载python软件]: https://www.anaconda.com/products/individual
 
 ![image-20200508125355394](asset/image-20200508125355394.png)
 
@@ -60,9 +77,3 @@
 ### 小帮手
 
 * 笔记软件可以用Typora
-
-* 新问题可以在这里提
-
-  ![image-20200508133043386](asset/image-20200508133043386.png)
-
-  
