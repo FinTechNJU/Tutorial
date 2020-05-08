@@ -100,5 +100,7 @@ https://www.anaconda.com/products/individual
 
   ![image-20200508134145860](asset/image-20200508134145860.png)
 
-  
+* VPN网址： portal.shadowsocks.nl
+
+  ￥95一年，iOS macos win10 win7 andriod系统均可以。
 
