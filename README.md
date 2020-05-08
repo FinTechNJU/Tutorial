@@ -30,9 +30,13 @@ https://www.anaconda.com/products/individual
 
 ![image-20200508125442201](asset/image-20200508125442201.png)
 
+
+
 ### 第三步： 把python软件和wind关联起来
 
 ![image-20200508125236341](asset/image-20200508125236341.png)
+
+
 
 ### 第四步：利用wind，得到获得数据的代码
 
@@ -52,11 +56,15 @@ https://www.anaconda.com/products/individual
 
 ![image-20200508125902774](asset/image-20200508125902774.png)
 
+
+
 ### 第五步：利用python软件，在里面编程来处理数据
 
 ![image-20200508130322827](asset/image-20200508130322827.png)
 
 ![image-20200508130431050](asset/image-20200508130431050.png)
+
+
 
 ### 第六步：需要其他命令
 
