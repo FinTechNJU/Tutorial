@@ -18,7 +18,11 @@
 
 ### 第一步：下载
 
-[下载python软件]: https://www.anaconda.com/products/individual
+下载python软件：
+
+https://www.anaconda.com/products/individual 
+
+
 
 ![image-20200508125355394](asset/image-20200508125355394.png)
 
