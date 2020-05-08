@@ -77,3 +77,16 @@
 ### 小帮手
 
 * 笔记软件可以用Typora
+
+* 有这个图标，就代表用的是公司的电脑，插的网线
+
+  ![image-20200508134051613](asset/image-20200508134051613.png)
+
+* 可以用这个浏览器，是可以打开网站的
+
+  https://www.microsoftedgeinsider.com/zh-cn/download/
+
+  ![image-20200508134145860](asset/image-20200508134145860.png)
+
+  
+
