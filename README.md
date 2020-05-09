@@ -103,4 +103,7 @@ https://www.anaconda.com/products/individual
 * VPN网址： https://portal.shadowsocks.nl/ 或者 https://portal.shadowsocks.nz
 
   ￥95一年，iOS macos win10 win7 andriod系统均可以。
+  
+  我也给大家提供了免费的VPN，参考：https://github.com/FinTechNJU/Tutorial/issues/2
+
 
