@@ -247,3 +247,33 @@ apple key code list
 125 0x7D DownArrow
 126 0x7E UpArrow
 ```
+
+参考文档：https://en.wikibooks.org/wiki/Category:Book:AppleScript_Programming
+
+sascript was designed for use with AppleScript, but will work with any Open Scripting Architecture (OSA) language.
+
+###### An A-Z Index of the **Apple macOS** command line (macOS bash)
+
+https://ss64.com/osx/
+
+Info.plist中添加
+
+```
+<key>LSUIElement</key>
+<string>1</string>
+```
+
+```
+ps aux | grep YOUR_SCRIPT_NAME` and `kill PROCESS_ID
+```
+
+
+
+
+
+
+
+test
+
+tes
+
