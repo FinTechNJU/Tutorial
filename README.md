@@ -8,5 +8,5 @@
 | [我看不到GitHub上的图片](https://github.com/FinTechNJU/Tutorial/issues/2) |
 |                [Mac帮助](/MAC帮助/README.md)                 |
 |            [Windows帮助](/Windows帮助/README.md)             |
-|          [vscode 数字栏更窄](vscode 数字栏更窄.md)           |
+|           [vscode 数字栏更窄](vscode数字栏更窄.md)           |
 
